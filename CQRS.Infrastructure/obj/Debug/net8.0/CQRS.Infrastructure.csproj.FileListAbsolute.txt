@@ -1,0 +1,17 @@
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\bin\Debug\net8.0\CQRS.Infrastructure.deps.json
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\bin\Debug\net8.0\CQRS.Infrastructure.dll
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\bin\Debug\net8.0\CQRS.Infrastructure.pdb
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\bin\Debug\net8.0\CQRS.Application.dll
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\bin\Debug\net8.0\CQRS.Domain.dll
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\bin\Debug\net8.0\CQRS.Application.pdb
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\bin\Debug\net8.0\CQRS.Domain.pdb
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.csproj.AssemblyReference.cache
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.AssemblyInfoInputs.cache
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.AssemblyInfo.cs
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.csproj.CopyComplete
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.dll
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\obj\Debug\net8.0\refint\CQRS.Infrastructure.dll
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\obj\Debug\net8.0\CQRS.Infrastructure.pdb
+C:\Develoment\CQRS.Project\CQRS.Infrastructure\obj\Debug\net8.0\ref\CQRS.Infrastructure.dll

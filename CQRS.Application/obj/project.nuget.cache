@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C0x29k1dX3/MkOhNL6pkVF8xNuNoaAvRFlHosOvN/EBDgt5KAfWSlCGy4uKljPUskVlpRgT5ueU9P5TLzPO/QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Develoment\\CQRS.Project\\CQRS.Application\\CQRS.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josue Pujols\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Josue Pujols\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Josue Pujols\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
